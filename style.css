@@ -1,0 +1,27 @@
+body {
+    background-color: #343a40;
+    color: #dee2e6;
+}
+
+.card {
+    background-color: #454d55;
+    border: 1px solid #343a40;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    color: #17a2b8;
+}
+
+.card-text {
+    color: #adb5bd;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
